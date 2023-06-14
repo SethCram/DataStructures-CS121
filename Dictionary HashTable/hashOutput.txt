@@ -1,0 +1,123 @@
+/*
+ hashOutput.txt
+ Seth Cram
+ Completed 5/5/2020
+ Hash table size = 101 
+*/
+
+Script started on Tue 05 May 2020 09:36:41 PM PDT
+[?1034hbash-4.2$ ./a.out
+File dict4 is open
+File closed
+File dict8 is open
+File closed
+621 words in bucket 0
+646 words in bucket 1
+625 words in bucket 2
+571 words in bucket 3
+568 words in bucket 4
+572 words in bucket 5
+579 words in bucket 6
+560 words in bucket 7
+570 words in bucket 8
+591 words in bucket 9
+570 words in bucket 10
+527 words in bucket 11
+544 words in bucket 12
+544 words in bucket 13
+591 words in bucket 14
+559 words in bucket 15
+598 words in bucket 16
+584 words in bucket 17
+572 words in bucket 18
+546 words in bucket 19
+589 words in bucket 20
+569 words in bucket 21
+567 words in bucket 22
+594 words in bucket 23
+636 words in bucket 24
+606 words in bucket 25
+602 words in bucket 26
+596 words in bucket 27
+582 words in bucket 28
+606 words in bucket 29
+626 words in bucket 30
+590 words in bucket 31
+528 words in bucket 32
+623 words in bucket 33
+571 words in bucket 34
+602 words in bucket 35
+584 words in bucket 36
+525 words in bucket 37
+591 words in bucket 38
+599 words in bucket 39
+536 words in bucket 40
+617 words in bucket 41
+553 words in bucket 42
+562 words in bucket 43
+584 words in bucket 44
+564 words in bucket 45
+564 words in bucket 46
+584 words in bucket 47
+637 words in bucket 48
+611 words in bucket 49
+576 words in bucket 50
+581 words in bucket 51
+566 words in bucket 52
+587 words in bucket 53
+558 words in bucket 54
+529 words in bucket 55
+569 words in bucket 56
+590 words in bucket 57
+588 words in bucket 58
+580 words in bucket 59
+569 words in bucket 60
+612 words in bucket 61
+582 words in bucket 62
+599 words in bucket 63
+579 words in bucket 64
+582 words in bucket 65
+583 words in bucket 66
+586 words in bucket 67
+597 words in bucket 68
+591 words in bucket 69
+561 words in bucket 70
+591 words in bucket 71
+561 words in bucket 72
+585 words in bucket 73
+580 words in bucket 74
+597 words in bucket 75
+563 words in bucket 76
+590 words in bucket 77
+554 words in bucket 78
+564 words in bucket 79
+624 words in bucket 80
+593 words in bucket 81
+613 words in bucket 82
+604 words in bucket 83
+604 words in bucket 84
+532 words in bucket 85
+585 words in bucket 86
+542 words in bucket 87
+557 words in bucket 88
+588 words in bucket 89
+574 words in bucket 90
+580 words in bucket 91
+575 words in bucket 92
+567 words in bucket 93
+594 words in bucket 94
+585 words in bucket 95
+587 words in bucket 96
+594 words in bucket 97
+561 words in bucket 98
+629 words in bucket 99
+560 words in bucket 100
+Minimum number of values stored in a single bucket: 525
+Maximum number of values stored in a single bucket: 646
+2603 probes required to find the words: zoomania, cleg, Dyssodia,
+ echinid, panne, unark, abigeus and vagas in a size 101 hash table.
+There are 0 empty buckets.
+bash-4.2$ exit
+exit
+
+Script done on Tue 05 May 2020 09:36:50 PM PDT

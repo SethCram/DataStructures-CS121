@@ -1,0 +1,6 @@
+   15 -2 ? -0 You're asked what's the air-speed velocity of an unladen swallow and get it wrong. The platform flings you back. 
+   10 +6 @ 0 You see a swirling blue portal appear as you land on the platform. You launch yourself through and plop out on the other side.
+   4 -1 L  -1  You  misstep and fall to your death. But then just as you touch the magma, you land on solid ground. You feel a little lighter now...
+   2 +1 X  0  You land on the X-marked platform and the X begins glowing as it springs you to the next platform.
+   5 +1 R  -1  You get hit by something in mid-air and plunge toward the magma below. But you land on solid ground. You feel a little lighter now... 
+

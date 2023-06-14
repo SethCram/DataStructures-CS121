@@ -1,0 +1,164 @@
+Script started on Fri 14 Feb 2020 03:14:47 AM PST
+[?1034hbash-4.2$ ./a.out
+Empty List, can't delete an animal that isn't there
+Empty list, give it a node first
+List of Members: 
+aardvark
+bird
+cat
+dog
+hamster
+cat
+rabbit
+zebra
+1 aardvark
+1 bird
+2 cat
+1 dog
+1 hamster
+1 rabbit
+0 zebra 
+
+zebra deleted
+rabbit deleted
+dog deleted
+cat deleted
+List of Members: 
+aardvark
+bird
+hamster
+cat
+dog
+hamster
+1 aardvark
+1 bird
+1 cat
+1 dog
+2 hamster
+0 rabbit
+0 zebra 
+
+bird deleted
+Failed to delete member because bird not in list 
+aardvark deleted
+List of Members: 
+hamster
+0 aardvark
+0 bird
+0 cat
+0 dog
+1 hamster
+0 rabbit
+0 zebra 
+
+List of Members: 
+hamster
+zebra
+lizard
+cat
+dog
+hamster
+bird
+frog
+snake
+rabbit
+horse
+dolphin
+dolphin
+1 lizard
+1 bird
+1 cat
+1 dog
+2 hamster
+1 rabbit
+1 zebra
+1 frog
+1 snake
+1 horse
+0 dolphin 
+
+rabbit deleted
+dog deleted
+lizard deleted
+List of Members: 
+hamster
+zebra
+cat
+hamster
+bird
+frog
+snake
+horse
+dolphin
+dolphin
+hamster
+0 lizard
+1 bird
+1 cat
+0 dog
+3 hamster
+0 rabbit
+1 zebra
+1 frog
+1 snake
+1 horse
+0 dolphin 
+
+Failed to delete member because dog not in list 
+bird deleted
+List of Members: 
+hamster
+zebra
+cat
+hamster
+frog
+snake
+horse
+dolphin
+dolphin
+hamster
+zebra
+mouse
+0 lizard
+0 bird
+1 cat
+0 dog
+3 hamster
+0 rabbit
+2 zebra
+1 frog
+1 snake
+1 horse
+0 dolphin 
+
+Failed to delete member because rabbit not in list 
+snake deleted
+horse deleted
+List of Members: 
+hamster
+zebra
+cat
+hamster
+frog
+dolphin
+dolphin
+hamster
+zebra
+mouse
+cat
+0 lizard
+0 bird
+2 cat
+0 dog
+3 hamster
+0 rabbit
+2 zebra
+1 frog
+0 snake
+0 horse
+0 dolphin 
+
+bash-4.2$ exit
+exit
+
+Script done on Fri 14 Feb 2020 03:14:54 AM PST
